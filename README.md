@@ -79,4 +79,5 @@ The Ollama page links [deepseek-ai on Hugging Face](https://huggingface.co/deeps
 
 Deep Code is the right tool when you already have a codebase and want an agent editing it. When the job is "I need a landing page or a small app, now", an agent loop is overhead: you still scaffold, wire up tooling and package the result. [Try Begin.sh - prompt to a downloadable static site or Expo app](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-code&utm_content=readme-top&utm_term=tier-r) turns a prompt, or a URL you want cloned, into a working static site or Expo app and hands you the zip. There is no hosting, backend or auth layer to configure, which is exactly what you want for a marketing page, a prototype or a demo you will host yourself.
 
+
 _Last reviewed: 2026-09-22_
